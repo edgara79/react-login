@@ -1,6 +1,6 @@
 {
-  "name": "pininos1",
-  "version": "0.1.0",
+  "name": "spa_app",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -8,7 +8,11 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router": "^6.3.0",
+    "react-router-config": "^5.1.1",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
+    "styled-components": "^5.3.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -17,6 +21,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "author": "Edgar Guerrero",
+  "licence": "Statement for SPA application developed by Edgar Guerrero, CSS login styles based on CodePen (https://codepen.io/soufiane-khalfaoui-hassani/pen/LYpPWda)",
   "eslintConfig": {
     "extends": [
       "react-app",
